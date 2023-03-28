@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.quiz-container{
+  margin: 200px;
+  margin-left: 500px;
+  margin-right: 500px;  
+}
+
+.next-button{
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: red;
+  color: rgb(248, 247, 247);
+}
+.options-container{
+  font-size: 25px;
+  padding-left: 50px;
+  margin-right: 50px;
+}
+.mainRight{
+  width: 90%;
+  display: flex;
+  justify-content: flex-end;
+}
